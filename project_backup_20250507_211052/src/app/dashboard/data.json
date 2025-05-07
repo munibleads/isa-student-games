@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "header": "Riyadh Plant Control Panel A3 Temperature Alert",
+    "type": "Critical",
+    "status": "In Process",
+    "target": "82°C",
+    "limit": "75°C",
+    "reviewer": "Abdullah Al-Ghamdi"
+  },
+  {
+    "id": 2,
+    "header": "Jeddah Facility Humidity Spike in Panel B7",
+    "type": "Warning",
+    "status": "Done",
+    "target": "78%",
+    "limit": "70%",
+    "reviewer": "Sara Al-Saud"
+  },
+  {
+    "id": 3,
+    "header": "Dammam Plant Load Balancing Required - Section C",
+    "type": "Warning",
+    "status": "In Process",
+    "target": "92%",
+    "limit": "85%",
+    "reviewer": "Mohammed Al-Otaibi"
+  },
+  {
+    "id": 4,
+    "header": "Makkah Facility Panel D2 Connection Issue",
+    "type": "Maintenance",
+    "status": "Done",
+    "target": "Offline",
+    "limit": "Online",
+    "reviewer": "Fatima Al-Zahrani"
+  },
+  {
+    "id": 5,
+    "header": "NEOM Zone Anomalous Vibration Detected - Panel A1",
+    "type": "Warning",
+    "status": "In Process",
+    "target": "High",
+    "limit": "Low",
+    "reviewer": "Khalid Al-Shammari"
+  },
+  {
+    "id": 6,
+    "header": "Jubail Industrial City Emergency Cooling System Activated",
+    "type": "Critical",
+    "status": "In Process",
+    "target": "Active",
+    "limit": "Standby",
+    "reviewer": "Layla Al-Harbi"
+  },
+  {
+    "id": 7,
+    "header": "Tabuk Plant Backup Power Supply Test",
+    "type": "Maintenance",
+    "status": "Done",
+    "target": "Passed",
+    "limit": "Required",
+    "reviewer": "Omar Al-Qahtani"
+  },
+  {
+    "id": 8,
+    "header": "Yanbu Industrial City Control Panel E5 - Capacitor Replacement",
+    "type": "Scheduled",
+    "status": "In Process",
+    "target": "6/30/24",
+    "limit": "7/15/24",
+    "reviewer": "Unassigned"
+  },
+  {
+    "id": 9,
+    "header": "Al Khobar Facility AI Detected Potential Electrical Fire Risk",
+    "type": "Critical",
+    "status": "In Process",
+    "target": "High Risk",
+    "limit": "Low Risk",
+    "reviewer": "Noor Al-Dosari"
+  },
+  {
+    "id": 10,
+    "header": "Madinah Plant Network Traffic Anomaly - IoT Gateway",
+    "type": "Warning",
+    "status": "Done",
+    "target": "Resolved",
+    "limit": "Normal",
+    "reviewer": "Yousef Al-Turki"
+  },
+  {
+    "id": 11,
+    "header": "Abha Control Center Firmware Update Required - Sensor Array F",
+    "type": "Maintenance",
+    "status": "In Process",
+    "target": "v2.3.1",
+    "limit": "v2.0.0",
+    "reviewer": "Amal Al-Rasheed"
+  },
+  {
+    "id": 12,
+    "header": "Qassim Plant Predictive Maintenance Alert - Panel B9",
+    "type": "Scheduled",
+    "status": "Done",
+    "target": "Complete",
+    "limit": "Required",
+    "reviewer": "Majid Al-Subaie"
+  },
+  {
+    "id": 13,
+    "header": "Jazan Refinery Temperature Trend Analysis - Control Panel A5",
+    "type": "Analysis",
+    "status": "Done",
+    "target": "Normal",
+    "limit": "Review",
+    "reviewer": "Reem Al-Malki"
+  },
+  {
+    "id": 14,
+    "header": "King Abdullah Economic City Security Audit - IoT Sensor Network",
+    "type": "Scheduled",
+    "status": "In Process",
+    "target": "7/2/24",
+    "limit": "7/15/24",
+    "reviewer": "Ahmed Al-Balawi"
+  },
+  {
+    "id": 15,
+    "header": "Hail Industrial Zone Dust Accumulation Alert - Panel C2",
+    "type": "Maintenance",
+    "status": "In Process",
+    "target": "High",
+    "limit": "Low",
+    "reviewer": "Hana Al-Qurashi"
+  }
+]
